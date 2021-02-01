@@ -8,10 +8,10 @@ Detailed explaination can be found in Project Report.
    - Logistic Regression
     
    - CNN
+   
+     - Model with Random Embeddings:
 
-    - Model with Random Embeddings:
+     - Model with Pre-trained Embeddings from akoksal
 
-    - Model with Pre-trained Embeddings from akoksal
-
-    - Model with Pre-trained Embeddings which is trained by me.
+     - Model with Pre-trained Embeddings which is trained by me.
 
